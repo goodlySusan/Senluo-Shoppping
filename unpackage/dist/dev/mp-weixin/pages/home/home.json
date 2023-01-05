@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "森罗购物",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-search": "/uni_modules/my-search/components/my-search/my-search"
+  }
+}
